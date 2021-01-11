@@ -5,6 +5,6 @@ The Windows filesystem, called the New Technology File System, or NTFS, is a clo
 3. the `C:` drive is for everything, from the system to your files, as long as they're on the hard drive
 4. the `D:` drive is for CD/DVD player
 5. the `E:` drive is for a USB stick, I think
-6. the `F:` - `Z:` drives are for any other things you have, but that would be a lot of USB/Beats Me ports.
+6. the `F:` - `Z:` drives are for any other things you have, but that would be a lot of USB/SD/Beats Me ports.
 ## IMPORTANT INFO
 ***This is just a draft, it may or may not work, try at own risk.***
