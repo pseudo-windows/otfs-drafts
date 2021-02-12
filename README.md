@@ -8,3 +8,4 @@ The Windows filesystem, called the New Technology File System, or NTFS, is a clo
 6. the `F:` - `Z:` drives are for any other things you have, but that would be a lot of USB/SD/Beats Me ports.
 ## IMPORTANT INFO
 ***This is just a draft, it may or may not work, try at own risk.***
+***There are a lot of branches, those are for my ideas and stuff so I don't mess up the base.***
